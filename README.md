@@ -1,5 +1,7 @@
 # ParametricSkills
 
+[Project Page](https://hhnqqq.github.io/ParametricSkills/#top) · [Hugging Face](https://huggingface.co/DiaryOfBacon/ParametricSkills)
+
 ParametricSkills encodes a textual skill into a LoRA adapter for a large language model (LLM). The adapter enables the model to apply the skill through its parameters, without explicitly including the skill text in the task context.
 
 ## Framework overview
