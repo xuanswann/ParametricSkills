@@ -1,4 +1,7 @@
-<h1 align="center">ParametricSkills</h1>
+<a name="parametricskills"></a>
+<h1 align="center">
+  <img src="assets/wordmark.png" alt="Parametric Skills" width="720">
+</h1>
 
 <p align="center">
   <strong>Encoding textual skills into LoRA adapters for large language models</strong>
