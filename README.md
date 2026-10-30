@@ -1,6 +1,26 @@
-# ParametricSkills
+<h1 align="center">ParametricSkills</h1>
 
-[Project Page](https://hhnqqq.github.io/ParametricSkills/#top) · [Hugging Face](https://huggingface.co/DiaryOfBacon/ParametricSkills)
+<p align="center">
+  <strong>Encoding textual skills into LoRA adapters for large language models</strong>
+</p>
+
+<p align="center">
+  <strong>Xuan Zhao<sup>*</sup>, Haonan He<sup>*†</sup>, Qingyu Yang<sup>*</sup>, Minglei Li, Zelin Tan,<br>
+  Bo Wan, Jingqi Ye, Chen Zhang, Shuyue Hu, Peng Ye<sup>‡</sup></strong>
+</p>
+
+<p align="center">
+  <sup>*</sup> Equal contribution &nbsp;·&nbsp; <sup>†</sup> Project lead &nbsp;·&nbsp; <sup>‡</sup> Corresponding author
+</p>
+
+<p align="center">
+  <a href="https://hhnqqq.github.io/ParametricSkills/#top"><img src="https://img.shields.io/badge/Project-Page-2563EB" alt="Project Page"></a>
+  <a href="https://huggingface.co/DiaryOfBacon/ParametricSkills"><img src="https://img.shields.io/badge/Hugging_Face-Models_%26_Code-FFD21E" alt="Hugging Face: Models and Code"></a>
+</p>
+
+<p align="center">
+  Contact: <a href="mailto:yepeng@pjlab.org.cn">yepeng@pjlab.org.cn</a>
+</p>
 
 ParametricSkills encodes a textual skill into a LoRA adapter for a large language model (LLM). The adapter enables the model to apply the skill through its parameters, without explicitly including the skill text in the task context.
 
