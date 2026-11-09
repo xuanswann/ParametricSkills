@@ -31,6 +31,7 @@ ParametricSkills encodes a textual skill into a LoRA adapter for a large languag
 
 | Date | News |
 | --- | --- |
+| **2026-11** | Our paper has reached **75 upvotes** on [alphaXiv](https://www.alphaxiv.org/en/abs/2606.30015)! Thank you for your support! |
 | **2026-11** | Our [project page](https://hhnqqq.github.io/ParametricSkills/#top) is now live! |
 | **2026-11** | We updated our [arXiv preprint](https://arxiv.org/abs/2606.30015) and released the [inference code and model weights](https://huggingface.co/DiaryOfBacon/ParametricSkills). |
 | **2026-07** | Our paper was accepted to **[CBW@COLM 2026](https://openreview.net/forum?id=NvpsWGH7et)**! |
