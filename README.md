@@ -27,6 +27,15 @@
 
 ParametricSkills encodes a textual skill into a LoRA adapter for a large language model (LLM). The adapter enables the model to apply the skill through its parameters, without explicitly including the skill text in the task context.
 
+## 🎉 News
+
+| Date | News |
+| --- | --- |
+| **2026-11** | Our [project page](https://hhnqqq.github.io/ParametricSkills/#top) is now live! |
+| **2026-11** | We updated our [arXiv preprint](https://arxiv.org/abs/2606.30015) and released the [inference code and model weights](https://huggingface.co/DiaryOfBacon/ParametricSkills). |
+| **2026-07** | Our paper was accepted to **[CBW@COLM 2026](https://openreview.net/forum?id=NvpsWGH7et)**! |
+| **2026-06** | Our work was featured by the official Pujiang Science Community account. |
+
 ## Framework overview
 
 ![ParametricSkills framework: skill generation, reconstruction pretraining, skill-exploitation fine-tuning, and self-evolving skills](assets/overview.png)
